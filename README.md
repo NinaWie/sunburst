@@ -6,7 +6,7 @@ I created different plots to present categorical data of certain forms in a nice
 
 In an attempt to create a visualization as a graphic I found [here](https://informationisbeautiful.net/visualizations/colours-in-cultures/), I created a similar representation with matplotlib. Follow the instructions in the noteook to replace the example data with your own.
 
-<img align="center" src="https://github.com/NinaWie/sunburst/blob/master/assets/sunray.png" alt="demo" width="400"/> 
+![alt text](https://github.com/NinaWie/sunburst/blob/master/assets/sunrays.png "sunrays plot")
 
 ## Sunburst plot
 
